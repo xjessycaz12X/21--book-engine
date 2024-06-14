@@ -36,6 +36,13 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 
+## Usage 
+1. Install all dependencies 
+2. Open your intergrated terminal
+3. use the command "npm run develop" to run the application
+
+   
+
 ## Screenshot
 ![Screenshot 2024-06-13 191845](https://github.com/xjessycaz12X/21--book-engine/assets/152758542/6b08dbe2-8d24-4f13-9dc1-f6049f6b04ae)
 
